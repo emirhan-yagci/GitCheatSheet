@@ -62,11 +62,9 @@ git stash apply -> burda ise bütün stashleri geri yükler ama liteden hiçbiri
 
 git stash clear -> stash listesini temizler. 
 
--Geçmişe Dönme 
+### Geçmişe Dönme 
 
 git checkout <commit_hash> ->   girilen commit hashine dönmeyi sağlar ama döndüğünde önünde kalan commitler silinmez ve HEAD bağımsız olur buna detached HEAD denir allta örnek verildi. 
-
- 
 
 git reset <commit_hash> -> girilen commitden sonrasını siler ancak yapıln değişiklikler kalır. 
 
@@ -84,7 +82,11 @@ Not : bulunduğunuz commiti ifade etmek için HEAD tagını kullanabilirsiniz ö
 
 git rebase <branch_name> -> girilen branchi bulunan branche rebase eder yani girilen branchdeki commitleri tek tek ekler buda mantıksal olarak daha anlaşılır olur mergedeki gibi bütün commitleri tek bir commite sığdırırsak ilerki zamanlarda anlamada güçlük çekebiliriz :) 
 
- 
+### Github
+Git remote add <name> <repo_url> -> girilen url adresine bir bağlantı oluşturur ve verilen name ile push pull gibi işlemleri yapmamızı sağlar
+Git push <name>  <branch_name> -> seçilen repoya seçilen branchin içeriğini aktarır,pushlar.
+Git branch -r  -> remote bağlanılmış olan branchlaeri gösterir
+
 
  
 
