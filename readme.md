@@ -16,11 +16,11 @@
 
 ***rm <filename> ->*** “remove” dosya siler. 
 
-rm –rf <filename> -> seçilen klasörü onay almadan siler (-Ri onay ister) . 
+***rm –rf <filename> ->*** seçilen klasörü onay almadan siler (-Ri onay ister) . 
 
-git config –list -> git config ayarlarınızın bulunduğu listeyi verir. 
+***git config –list ->*** git config ayarlarınızın bulunduğu listeyi verir. 
 
--Git Temelleri 
+#### Git Temelleri 
 
 Git init -> initialize(başlatmak) klasöre git i kurar (gizli dosya halinde ekler giti silmek isterseniz git klasörünü silebilirsiniz) 
 
