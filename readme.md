@@ -2,9 +2,9 @@
 
 
  
-<span style="color:red;"> -Başta gerekli olan </span>
+#### Başta gerekli olan komut satırı kodlarına bakalım
 
-ls -> “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
+*** ls -> *** “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
 pwd  -> “present working directory” bulunduğunuz klasörü gösterir. 
 
