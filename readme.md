@@ -1,5 +1,5 @@
-Gİt öğrenirken böyle bir kaynak hazırlamıştım dönüp bakarım diye buraya atmaya karar verdim türkçe sonradan baktığımda anlayacağım şekilde yazdım yakında birkaç diagram ekliyiceğim
-iyi çalışmalar
+# Git Cheatsheet
+
 
  
 
