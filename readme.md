@@ -2,7 +2,7 @@
 
 
  
-## Başta gerekli olan komut satırı kodlarına bakalım
+>## Başta gerekli olan komut satırı kodlarına bakalım
 
 ***ls ->*** “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
