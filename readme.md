@@ -2,10 +2,9 @@
 
 
  
+### -Başta gerekli olan 
 
--Terminal Kullanımı 
-
-ls -> “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
+> ls -> “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
 pwd  -> “present working directory” bulunduğunuz klasörü gösterir. 
 
