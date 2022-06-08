@@ -2,7 +2,7 @@
 
 
  
-### Başta gerekli olan komut satırı kodlarına bakalım
+## Başta gerekli olan komut satırı kodlarına bakalım
 
 ***ls ->*** “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
@@ -20,7 +20,7 @@
 
 ***git config –list ->*** git config ayarlarınızın bulunduğu listeyi verir. 
 
-### Git Temelleri 
+## Git Temelleri 
 
 ***Git init ->*** initialize(başlatmak) klasöre git i kurar (gizli dosya halinde ekler giti silmek isterseniz git klasörünü silebilirsiniz) 
 
@@ -60,7 +60,7 @@
 
 ***git stash clear ->*** stash listesini temizler. 
 
-### Geçmişe Dönme 
+## Geçmişe Dönme 
 
 ***git checkout <commit_hash> ->***   girilen commit hashine dönmeyi sağlar ama döndüğünde önünde kalan commitler silinmez ve HEAD bağımsız olur buna detached HEAD denir allta örnek verildi. 
 
@@ -80,7 +80,7 @@
 
 ***git rebase <branch_name> ->*** girilen branchi bulunan branche rebase eder yani girilen branchdeki commitleri tek tek ekler buda mantıksal olarak daha anlaşılır olur mergedeki gibi bütün commitleri tek bir commite sığdırırsak ilerki zamanlarda anlamada güçlük çekebiliriz :) 
 
-### Github
+## Github
 ***git remote add <name> <repo_url> ->*** girilen url adresine bir bağlantı oluşturur ve verilen name ile push pull gibi işlemleri yapmamızı sağlar
 ***git push <name>  <branch_name> ->*** seçilen repoya seçilen branchin içeriğini aktarır,pushlar.
 ***git branch -r  ->*** remote bağlanılmış olan branchlaeri gösterir
