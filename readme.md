@@ -20,7 +20,7 @@
 
 ***git config –list ->*** git config ayarlarınızın bulunduğu listeyi verir. 
 
-## Git Temelleri 
+> ## Git Temelleri 
 
 ***Git init ->*** initialize(başlatmak) klasöre git i kurar (gizli dosya halinde ekler giti silmek isterseniz git klasörünü silebilirsiniz) 
 
