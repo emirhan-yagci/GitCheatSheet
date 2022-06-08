@@ -82,7 +82,9 @@
 
 > ## Github
 ***git remote add <name> <repo_url> ->*** girilen url adresine bir bağlantı oluşturur ve verilen name ile push pull gibi işlemleri yapmamızı sağlar
+ 
 ***git push <name>  <branch_name> ->*** seçilen repoya seçilen branchin içeriğini aktarır,pushlar.
+ 
 ***git branch -r  ->*** remote bağlanılmış olan branchlaeri gösterir
 
 
