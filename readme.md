@@ -2,7 +2,7 @@
 
 
  
-#### Başta gerekli olan komut satırı kodlarına bakalım
+### Başta gerekli olan komut satırı kodlarına bakalım
 
 ***ls ->*** “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
@@ -20,7 +20,7 @@
 
 ***git config –list ->*** git config ayarlarınızın bulunduğu listeyi verir. 
 
-#### Git Temelleri 
+### Git Temelleri 
 
 Git init -> initialize(başlatmak) klasöre git i kurar (gizli dosya halinde ekler giti silmek isterseniz git klasörünü silebilirsiniz) 
 
