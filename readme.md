@@ -2,7 +2,7 @@
 
 
  
-### -Başta gerekli olan 
+<span style="color:red;"> -Başta gerekli olan </span>
 
 > ls -> “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
