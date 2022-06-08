@@ -4,17 +4,17 @@
  
 #### Başta gerekli olan komut satırı kodlarına bakalım
 
-*** ls -> *** “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
+***ls ->*** “list” bulundugunuz directoryideki klasörleri gösterir(ls –lf gizli dosyalarıda gösterir). 
 
-pwd  -> “present working directory” bulunduğunuz klasörü gösterir. 
+***pwd ->*** “present working directory” bulunduğunuz klasörü gösterir. 
 
-cd <filename>  -> “change directory” klasörler arası geçiş yapabilmeyi sağlar ‘cd ..’ kullanımı bir geri boyuta geçmeyi sağlar. 
+***cd <filename>  ->*** “change directory” klasörler arası geçiş yapabilmeyi sağlar ‘cd ..’ kullanımı bir geri boyuta geçmeyi sağlar. 
 
-mkdir <filename> -> “make directory” klasör oluşturmayı sağlar. 
+***mkdir <filename> ->*** “make directory” klasör oluşturmayı sağlar. 
 
-touch <filename> -> dosya oluşturur. 
+***touch <filename> ->*** dosya oluşturur. 
 
-rm <filename> -> “remove” dosya siler. 
+***rm <filename> ->*** “remove” dosya siler. 
 
 rm –rf <filename> -> seçilen klasörü onay almadan siler (-Ri onay ister) . 
 
